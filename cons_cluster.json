@@ -1,0 +1,14 @@
+{
+	"vowl_list": ["a","i","u","e","o"],
+	"cons_list": ["p","b","t","d","k","g","f","v","s","z","x","w","r","l","m","n"],
+
+	"cons_clusters": {
+		"start_cons_c": ["p","b","t","d","k","g","f","v","s","z","x","w","r","l","m","n"],
+		"end_cons_c": ["p","t","k","f","s","x","r","l","m","n"],
+		"start_cons_cc": ["pr","pl","bz","bd","br","bl","tr","tk","tv","dv","dn","dr","dl","kr","kl","kv","ks","kn","r","gl","gv","gz","gm","gn","gr","fp","ft","fk","fs","fr","fl","vb","vd","vg","vz","vr","vl","vm","vn","sp","st","sk","sf","sv","sx","sr","sl","sm","sn","zb","zd","zg","zv","zr","zl","zm","zn","xr","xl","xm","xn","rt","rd","rk","rg","rf","rv","rs","rz","rx","rm","rn","nr","nm","mr","mn"],
+		"end_cons_cc": ["ps","pr","pl","br","bl","tm","tr","tl","dr","dl","kt","kf","ks","kr","kl","gm","gr","gl","ft","fs","fr","vr","vm","sp","st","sk","sr","sl","zl","zm","zn","xt","xm","rp","rt","rf","rf","rs","rx","rm","rn","nt","ns","nr","mr","mt","ms"]
+	},
+
+	"syllable_list": ["cvc","vcv","vcvc","cvcv","ccvc","cvcc","cvccv"]
+}
+
